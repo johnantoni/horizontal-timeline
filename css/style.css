@@ -406,3 +406,102 @@ Main Components
     transform: translateX(0%);
   }
 }
+
+
+.cd-horizontal-timeline .events .dot-1.selected span {
+  color: white;
+  background-color: #C3A7D7;
+  padding: 3px 5px;
+}
+.cd-horizontal-timeline .events .dot-1.selected::after {
+  border-color: #C3A7D7;
+  background-color: #C3A7D7;
+}
+
+
+.cd-horizontal-timeline .events .dot-2.selected span {
+  color: white;
+  background-color: #5391CA;
+  padding: 3px 5px;
+}
+.cd-horizontal-timeline .events .dot-2.selected::after {
+  border-color: #5391CA;
+  background-color: #5391CA;
+}
+
+
+.cd-horizontal-timeline .events .dot-3.selected span {
+  color: white;
+  background-color: #00B0AE;
+  padding: 3px 5px;
+}
+.cd-horizontal-timeline .events .dot-3.selected::after {
+  border-color: #00B0AE;
+  background-color: #00B0AE;
+}
+
+
+.cd-horizontal-timeline .events .dot-4.selected span {
+  color: white;
+  background-color: #7CBF4B;
+  padding: 3px 5px;
+}
+.cd-horizontal-timeline .events .dot-4.selected::after {
+  border-color: #7CBF4B;
+  background-color: #7CBF4B;
+}
+
+
+.cd-horizontal-timeline .events .dot-5.selected span {
+  color: white;
+  background-color: #ED5F71;
+  padding: 3px 5px;
+}
+.cd-horizontal-timeline .events .dot-5.selected::after {
+  border-color: #ED5F71;
+  background-color: #ED5F71;
+}
+
+
+.cd-horizontal-timeline .events .dot-6.selected span {
+  color: white;
+  background-color: #FF4E1D;
+  padding: 3px 5px;
+}
+.cd-horizontal-timeline .events .dot-6.selected::after {
+  border-color: #FF4E1D;
+  background-color: #FF4E1D;
+}
+
+
+.cd-horizontal-timeline .events .dot-7.selected span {
+  color: white;
+  background-color: #F17C3B;
+  padding: 3px 5px;
+}
+.cd-horizontal-timeline .events .dot-7.selected::after {
+  border-color: #F17C3B;
+  background-color: #F17C3B;
+}
+
+
+.cd-horizontal-timeline .events .dot-8.selected span {
+  color: white;
+  background-color: #FCC363;
+  padding: 3px 5px;
+}
+.cd-horizontal-timeline .events .dot-8.selected::after {
+  border-color: #FCC363;
+  background-color: #FCC363;
+}
+
+
+.cd-horizontal-timeline .events .dot-9.selected span {
+  color: white;
+  background-color: #622C9B;
+  padding: 3px 5px;
+}
+.cd-horizontal-timeline .events .dot-9.selected::after {
+  border-color: #622C9B;
+  background-color: #622C9B;
+}
